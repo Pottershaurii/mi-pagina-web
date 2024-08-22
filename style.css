@@ -450,7 +450,7 @@ p{
     color: #ccc;
 }
 
-@media (max-width:991px){  /* Pagina responsive */
+@media (max-width:1100px){  /* Pagina responsive */
 
     .menu {
         padding: 30px;
